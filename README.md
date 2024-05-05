@@ -10,6 +10,12 @@
 
 ## Links on social sites:
   **[Gamebanana](https://gamebanana.com/members/3303066)**
+
+  ---
+  
   **[Youtube (RUSSIAN!)](https://www.youtube.com/channel/UCqqZaMyqeBg0SaiEQDkQMJA)**
+
+  ---
+  
   ***Thats all!***
   

@@ -1,21 +1,14 @@
 # Baldi Basics Retexturization and recoding by Kostya
-## aka my First mod
 
-**Hello, my friend!
-  and welcome to my repository, where is my mod for Baldi Basics Classic!
-  This mod contains my own textures and code
-  like: twix instead of zesty bar!
-  Coca-cola instead of BSODA
-  and other, other...**
-
-## Links on social sites:
-  **[Gamebanana](https://gamebanana.com/members/3303066)**
-
-  ---
-  
-  **[Youtube (RUSSIAN!)](https://www.youtube.com/channel/UCqqZaMyqeBg0SaiEQDkQMJA)**
-
-  ---
-  
-  ***Thats all!***
-  
+# CANCELED
+## Q/A
+### Why?
+**Well, my mod when im starting, its just crushing**
+### Theres have a thing, that do the mod not be canceled?
+**Well, it still have WIP status, just because of fixing**
+### When it releases?
+**Well, because of fixing, it maybe will comes in next year**
+### So, we need to close eyes on this?
+**Well, yea maybe?**
+### Ok, but im still have other question!
+**If you have, you can go to Issues page and ask me**
